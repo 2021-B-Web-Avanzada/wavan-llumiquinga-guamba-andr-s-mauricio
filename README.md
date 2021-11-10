@@ -1,1 +1,1 @@
-# wavan-llumiquinga-guamba-andr-s-mauricio
+# wavan-llumiquinga-guamba-andres-mauricio

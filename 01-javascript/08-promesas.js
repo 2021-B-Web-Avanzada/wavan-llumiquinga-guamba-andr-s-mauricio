@@ -3,9 +3,8 @@ const fs = require('fs');
 
 function promesaEsPar(numero) {
     const miPrimerPromesa = new Promise( // Definicion de la promesa
-        (
-            resolve, // return
-            reject // throw
+        (resolve, // return
+         reject // throw
         ) => {
             if (numero % 2 == 0) {
                 resolve(numero); // return numero -> resolve() : return undefined
@@ -26,7 +25,7 @@ function promesaElevarAlCuadrado(numero) {
     return miPrimerPromesa
 }
 
-promesaEsPar(6)
+promesaEsPar(3)
     .then( // ACEPTAN UN RETURN DE PROMESAS
         (datosPromesa)=>{
             console.log(datosPromesa);

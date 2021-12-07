@@ -33,5 +33,5 @@ function escribirArchivo(path, contenidoNuevo) {
 
 escribirArchivo(
     './06-ejemplo.txt',
-    'Buenas tardes'
+    'Buenas noches'
 );

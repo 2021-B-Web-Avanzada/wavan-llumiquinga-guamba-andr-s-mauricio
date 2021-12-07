@@ -7,3 +7,5 @@ let nombre2: String = 'Andres2'; //clase String
 nombre = 'Vicente';
 
 // Duck typing
+let apellido = 'llumiquinga';
+apellido.toUpperCase(); //metodos string

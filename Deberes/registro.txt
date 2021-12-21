@@ -1,0 +1,2 @@
+{"nombreMarca":"Ford","pais":"USA","año":1856,"Ensamblado":true,"permiso":false,"modelos":[]}
+{"nombreMarca":"Chevrolet","pais":"ditroit","modelos":[{"nombreModelo":"Aveo Family","tipo":"automovil","año":2020,"AC":true,"Soat":true}]}

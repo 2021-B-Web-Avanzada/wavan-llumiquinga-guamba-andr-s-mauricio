@@ -1,7 +1,5 @@
 // 09-ejercicio-lec-esc-promesas.js
-
 const fs = require('fs');
-
 /* Hacer una funcion que me acepte como parametro
 una variable con el path del archivo y el contenido a agregar
 al contenido del archivo. La funcion debe tomar estos dos parametros
@@ -30,8 +28,6 @@ function promesaLeerArchivo(path){
     )
     return Promesa
 }
-
-
 function promesaEscribirArchivo(path, contenidoActual , nuevoContenido ){
     const PromesaEscritura = new Promise(
         (resolve, reject) => {

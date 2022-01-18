@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    margin-left: 10px;
+}
+
+header nav{
+    display: flex;
+    align-items: center;
+}
+
+header nav img{
+    width: 130px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 30px;
+
+}
+
+header nav li {
+    font-size: 19px;
+    color: rgb(112, 112, 112);
+    font-weight: bold;
+    padding: 0px 15px;
+}
+
+.search{
+    font-size: 19px;
+    color: rgb(112, 112, 112);
+    font-weight: bold;
+    padding: 0px 15px;  
+}
+
+.buscar{
+    padding: 0px 10px;
+}
